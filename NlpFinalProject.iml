@@ -8,7 +8,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="twitter" level="project" />
-    <orderEntry type="library" exported="" name="stanford-corenlp" level="project" />
+    <orderEntry type="library" name="lib" level="application" />
   </component>
 </module>
