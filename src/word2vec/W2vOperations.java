@@ -24,7 +24,7 @@ public abstract class W2vOperations {
         long numberOfDimensionsInVector;
         long a, b;
 
-        file = new File(fileName + ".bin");
+        file = new File(fileName + ".bin.gz");
 
         try {
             Utils.testPrint("Building W2v Model");
